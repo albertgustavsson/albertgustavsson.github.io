@@ -1,7 +1,9 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    background-color: #90ff90;
+    background-image: url("/pictures/colors3.png");
+    background-repeat: repeat-x;
+    background-size:contain;
 }
 
 #header {
