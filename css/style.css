@@ -1,13 +1,13 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    background-image: url("/pictures/colors3.png");
+    background-image: url("../pictures/colors3.png");
     background-repeat: repeat-x;
     background-size:contain;
 }
 
 #header {
-    
+
 }
 
 #left-menu {
